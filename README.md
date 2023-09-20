@@ -36,7 +36,8 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=emirtetik&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emirtetik&langs_count=5&theme=tokyonight)]()
 <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=emirtetik&theme=dark&background=000000"/>
 </p>
