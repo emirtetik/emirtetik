@@ -36,7 +36,7 @@
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+
 
 
 
@@ -49,7 +49,7 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=emirtetik&theme=dark&background=000000"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emirtetik&theme=dark&background=000000)](https://git.io/streak-stats) 
+
 
 
 
