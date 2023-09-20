@@ -30,6 +30,9 @@
   </a>
 </div>
 
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 <!-- 
@@ -60,9 +63,6 @@ jobs:
 -->
 
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
-
-
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
  
@@ -70,7 +70,7 @@ jobs:
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=emirtetik&theme=dark&background=000000"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
