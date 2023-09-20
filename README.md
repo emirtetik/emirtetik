@@ -36,10 +36,10 @@
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
- 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
+<p align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
+</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/emirtetik)
