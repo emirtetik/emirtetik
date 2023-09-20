@@ -36,8 +36,8 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=emirtetik&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emirtetik&langs_count=5&theme=tokyonight)]()
 
-![](https://raw.githubusercontent.com/emirtetik/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/emirtetik/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/emirtetik)
