@@ -33,7 +33,6 @@
  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
