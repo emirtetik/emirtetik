@@ -33,4 +33,4 @@
 
 # GitHub Stats <img src="assets/images/Comet.png" width="30">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirtetik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=emirtetik&count_private=true&theme=tokyonight&showicons=true)]()
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirtetik&show_icons=true&hide=prs&count_private=true&hide_title=true&theme=radical)
