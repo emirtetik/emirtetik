@@ -3,32 +3,44 @@
 
 ## 🚀 Frontend Development
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vuejs,vite,redux" />
+  <a href="https://www.linkedin.com/in/emirtetik/">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vuejs,vite,redux" />
+  </a>
 </p>
 
 ## 🛠 Backend Development
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,express,fastapi" />
+  <a href="https://www.linkedin.com/in/emirtetik/">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,express,fastapi" />
+  </a>
 </p>
 
 ## 🗄 Databases
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+  <a href="https://www.linkedin.com/in/emirtetik/">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+  </a>
 </p>
 
 ## ☁️ DevOps & Cloud
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel" />
+  <a href="https://www.linkedin.com/in/emirtetik/">
+    <img src="https://skillicons.dev/icons?i=docker,aws,vercel" />
+  </a>
 </p>
 
 ## 🔍 Tools & Utilities
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=postman,graphql,webpack,npm,vscode" />
+  <a href="https://www.linkedin.com/in/emirtetik/">
+    <img src="https://skillicons.dev/icons?i=postman,graphql,webpack,npm,vscode" />
+  </a>
 </p>
 
 ## 🧠 AI & Community
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=ai,stackoverflow" />
+  <a href="https://www.linkedin.com/in/emirtetik/">
+    <img src="https://skillicons.dev/icons?i=ai,stackoverflow" />
+  </a>
 </p>
 
 # GitHub Stats <img src="assets/images/Comet.png" width="30">
