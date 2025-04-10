@@ -1,49 +1,36 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="right"/></a>
-<br>
-
-
- 
 <div id="header" align="left">
-<img src="https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHAXsFNh56I0w/profile-displaybackgroundimage-shrink_350_1400/B4DZYCDeUmHwAc-/0/1743791188282?e=1749686400&v=beta&t=Xck0zwaU_u0dEsdtIJ5RKlYIv4dL5rCbBiy0UYDg7NE" width="100%"/>
 
+## 🚀 Frontend Development
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vuejs,vite,redux" />
+</p>
 
-  
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<!-- BACK-END WEB DEVELOPMENT -->
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<!-- APP DEVELOPMENT -->
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<!-- TOOLS -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+## 🛠 Backend Development
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,express,fastapi" />
+</p>
 
-<br />
+## 🗄 Databases
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+</p>
 
+## ☁️ DevOps & Cloud
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel" />
+</p>
 
- <div align="center"> 
- 
-  <a href="https://www.linkedin.com/in/emirtetik/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
-  </a>
-  <a href = "mailto:dev@emirfy.com">
-    <img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
-  </a>
-</div>
+## 🔍 Tools & Utilities
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=postman,graphql,webpack,npm,vscode" />
+</p>
 
- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+## 🧠 AI & Community
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=ai,stackoverflow" />
+</p>
 
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+# GitHub Stats <img src="assets/images/Comet.png" width="30">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirtetik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=emirtetik&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emirtetik&langs_count=5&theme=tokyonight)]()
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/emirtetik)
